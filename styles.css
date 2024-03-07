@@ -1,0 +1,47 @@
+#allbody {
+    background-color: lightgray;
+    background-size: cover;
+}
+
+#nav {
+    background-color: beige;
+    text-align: center;
+    color: aliceblue;
+    border: 1px solid black;
+    color: black;
+
+}
+
+#anim {
+    position: absolute;
+    top: 1px;
+    left: 10px;
+    width: 150px;
+    border-radius: 50%;
+    opacity: 0.3px;
+}
+
+.img1 {
+    position: absolute;
+    top: 5px;
+    ;
+    width: 50px;
+    left: 700Px;
+    border-radius: 5%;
+}
+
+.img2 {
+    position: absolute;
+    top: 5px;
+    ;
+    width: 50px;
+    right: 700Px;
+}
+
+h1 {
+    padding-top: 10px;
+}
+
+h3 {
+    color: white;
+}
